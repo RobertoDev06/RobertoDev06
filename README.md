@@ -1,7 +1,11 @@
-# 👨🏻‍💻 Paulo Roberto
-
+<!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Front-End;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+PHP&center=true&width=500&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:4F46E5&height=200&section=header&text=Paulo%20Roberto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- ================= ANIMAÇÃO ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Front-End;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+PHP;Criando+interfaces+modernas+e+responsivas&center=true&width=500&height=50">
 </p>
 
 ---
@@ -9,10 +13,10 @@
 ## 💻 Sobre mim
 
 Me chamo **Paulo Roberto**, tenho **19 anos** e sou natural do Ceará.  
-Atualmente, curso **Análise e Desenvolvimento de Sistemas pela CDL**.
+Atualmente curso **Análise e Desenvolvimento de Sistemas pela CDL**.
 
-Tenho foco na área de **Front-End**, criando interfaces modernas, responsivas e funcionais com **HTML, CSS e JavaScript**.  
-Também possuo conhecimentos em **Python e PHP**, buscando evoluir constantemente e crescer profissionalmente na área de tecnologia.
+Tenho foco em **Front-End**, desenvolvendo interfaces modernas, responsivas e funcionais com **HTML, CSS e JavaScript**.  
+Também possuo conhecimentos em **Python e PHP**, buscando evolução constante na área de tecnologia.
 
 ---
 
@@ -33,11 +37,11 @@ Também possuo conhecimentos em **Python e PHP**, buscando evoluir constantement
 
 <div align="left" style="padding: 15px; border: 1px solid #ddd; border-radius: 12px; display: inline-block;">
 
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-roberto-5856a43aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/SEU-INSTAGRAM/" target="_blank">
+  <a href="https://www.instagram.com/_paul06.r/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
@@ -51,4 +55,4 @@ Também possuo conhecimentos em **Python e PHP**, buscando evoluir constantement
 
 ## 🚀 Objetivo
 
-Busco oportunidades para atuar como **Desenvolvedor Front-End**, contribuindo com projetos criativos, responsivos e de alto impacto visual, sempre evoluindo minhas habilidades técnicas e profissionais.
+Busco oportunidades como **Desenvolvedor Front-End**, criando interfaces modernas, intuitivas e responsivas, sempre buscando evolução constante e crescimento profissional na área de tecnologia.
