@@ -10,7 +10,7 @@
 
 ## 💻 Sobre Mim
 
-Olá! Sou o **Paulo Roberto**, tenho 19 anos e sou natural do Ceará. ☀️  
+Olá! Sou o **Paulo Roberto**, tenho 20 anos e sou natural do Ceará.   
 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na CDL, com foco total em criar experiências digitais fluidas e modernas no **Front-End**.
 
 Tenho facilidade em transformar designs em interfaces funcionais e busco constantemente evoluir no ecossistema de desenvolvimento, explorando também tecnologias de back-end como **Python** e **PHP**.
